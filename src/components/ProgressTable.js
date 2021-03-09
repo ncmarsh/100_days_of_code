@@ -23,7 +23,11 @@ function ProgressTable() {
                     <td>I started!</td>
                     <td>Deciding what to work on</td>
                     <td>Remember you're not alone! It helped me to read some articles from others who said the hardest part is getting started.</td>
-                    <td></td>
+                    <td>
+                        <a href="https://github.com/ncmarsh/100_days_of_code/commit/c18783e690487a3a79e9e5301d8f8388419e6ed5">
+                            One of today's commits
+                        </a>
+                    </td>
                 </tr>
                 {/* <tr>
                     <td>2</td>
