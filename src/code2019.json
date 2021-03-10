@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "date": "Mon Mar 8, 2021",
+        "progress": "Began working on a tracker for the 100 days of code challenge",
+        "success": "I started!",
+        "challenge": "Deciding what to work on",
+        "thoughts": "Remember you're not alone! It helped me to read some articles from others who said the hardest part is getting started.",
+        "link": "https://github.com/ncmarsh/100_days_of_code/commit/c18783e690487a3a79e9e5301d8f8388419e6ed5",
+        "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 2,
+        "date": "Tues Mar 9, 2021",
+        "progress": "Continued working on 100 days tracker by adding json object to map over on the render",
+        "success": "Completed day 2!",
+        "challenge": "Deciding what to work on",
+        "thoughts": "Just get your keys to the keyboard",
+        "link": "",
+        "linkTitle": "One of today's commits"
+    }
+]
