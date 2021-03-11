@@ -1,12 +1,17 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import { ButtonGroup, ToggleButton } from "react-bootstrap";
 
+const styles = {
+  color: "white"
+}
+
 function ToggleViewBtn() {
-    const [radioValue, setRadioValue] = useState('1');
+    const [radioValue, setRadioValue] = useState("/card");
   
     const radios = [
-      { name: 'Cards', value: '1' },
-      { name: 'Table', value: '2' },
+      { name: "Cards", value: "/card" },
+      { name: "Table", value: "/table" },
     ];
   
     return (
@@ -22,7 +27,9 @@ function ToggleViewBtn() {
               checked={radioValue === radio.value}
               onChange={(e) => setRadioValue(e.currentTarget.value)}
             >
-              {radio.name}
+              <Link to={radio.value} style={styles}>
+                {radio.name}
+              </Link>
             </ToggleButton>
           ))}
         </ButtonGroup>

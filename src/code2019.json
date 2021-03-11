@@ -18,5 +18,15 @@
         "thoughts": "Just get your keys to the keyboard",
         "link": "https://github.com/ncmarsh/100_days_of_code/commit/fc2b574ec1e542c207b3e1f94b80c0f5d8c50ea9",
         "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 3,
+        "date": "Wed Mar 10, 2021",
+        "progress": "Continued working on 100 days tracker by adding react-router in order to switch between views",
+        "success": "Made it thru Day 3!",
+        "challenge": "Deciding what to work on remains a struggle",
+        "thoughts": "This is my challenge.",
+        "link": "",
+        "linkTitle": ""
     }
 ]

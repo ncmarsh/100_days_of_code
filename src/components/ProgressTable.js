@@ -22,7 +22,7 @@ function ProgressTable(props) {
             </thead>
             <tbody>
                 {props.codeProgress.map(item => 
-                    <tr>
+                    <tr key={item.id}>
                         <td>{item.id}</td>
                         <td>{item.date}</td>
                         <td>{item.progress}</td>
