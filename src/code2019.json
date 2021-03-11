@@ -25,8 +25,8 @@
         "progress": "Continued working on 100 days tracker by adding react-router in order to switch between views",
         "success": "Made it thru Day 3!",
         "challenge": "Deciding what to work on remains a struggle",
-        "thoughts": "This is my challenge.",
-        "link": "",
-        "linkTitle": ""
+        "thoughts": "This is my challenge. Remember to work on what interests you!",
+        "link": "https://github.com/ncmarsh/100_days_of_code/commit/c422026f78f8b2905fe858d7b39be5956ee7ab99",
+        "linkTitle": "One of today's commits"
     }
 ]

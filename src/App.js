@@ -5,6 +5,7 @@ import ProgressCard from "./components/ProgressCard";
 import ProgressTable from "./components/ProgressTable";
 import ToggleViewBtn from "./components/ToggleViewBtn";
 import codeProgress from "./code2019.json";
+import { Container } from "react-bootstrap";
 import './App.css';
 
 function App() {
@@ -21,14 +22,16 @@ function App() {
           <h3>My aim is to create an interactive structure to show my progress that I can also reuse for future challenges</h3>
           <ToggleViewBtn />
         </header>
-        <Switch>
-          <Route exact path={["/", "/card"]}>
-            {codeProgress.map(item => <ProgressCard key={item.id} {...item} />)}
-          </Route>
-          <Route exact path="/table">
-            <ProgressTable codeProgress={codeProgress} />
-          </Route>
-        </Switch>
+        <Container>
+          <Switch>
+            <Route exact path={["/", "/card"]}>
+              {codeProgress.map(item => <ProgressCard key={item.id} {...item} />)}
+            </Route>
+            <Route exact path="/table">
+              <ProgressTable codeProgress={codeProgress} />
+            </Route>
+          </Switch>
+        </Container>
       </div>
     </Router>
   );

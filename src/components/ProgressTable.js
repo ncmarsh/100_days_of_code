@@ -1,23 +1,18 @@
 import React from "react";
 import { Table } from "react-bootstrap";
 
-const styles = {
-    marginLeft: "15px",
-    marginRight: "50px"
-}
-
 function ProgressTable(props) {
     return (
-        <Table striped bordered hover style={styles}>
+        <Table striped bordered hover>
             <thead>
                 <tr>
-                    <th>Day #</th>
-                    <th>Date</th>
+                    <th style={{ minWidth: "75px" }}>Day #</th>
+                    <th style={{ minWidth: "100px" }}>Date</th>
                     <th>Today's Progress</th>
                     <th>Successes</th>
                     <th>Challenges</th>
                     <th>Thoughts</th>
-                    <th>Link(s) to Work</th>
+                    <th style={{ minWidth: "100px" }}>Link(s) to Work</th>
                 </tr>
             </thead>
             <tbody>
