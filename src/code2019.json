@@ -28,5 +28,15 @@
         "thoughts": "This is my challenge. Remember to work on what interests you!",
         "link": "https://github.com/ncmarsh/100_days_of_code/commit/c422026f78f8b2905fe858d7b39be5956ee7ab99",
         "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 4,
+        "date": "Thurs Mar 11, 2021",
+        "progress": "Returned back to my final project from my bootcamp, trying to debug a modal issue on the calendar page.",
+        "success": "Getting my hands dirty",
+        "challenge": "After combing through the code a few times over, I am so far unable to find the difference as to why one modal closes and the other doesn't",
+        "thoughts": "Just keep swimming",
+        "link": "https://github.com/UWB-Bandits/the-smoking-gun",
+        "linkTitle": "My final project full repo"
     }
 ]
