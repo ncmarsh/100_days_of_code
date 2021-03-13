@@ -38,5 +38,15 @@
         "thoughts": "Just keep swimming",
         "link": "https://github.com/UWB-Bandits/the-smoking-gun",
         "linkTitle": "My final project full repo"
+    },
+    {
+        "id": 5,
+        "date": "Fri Mar 12, 2021",
+        "progress": "Spent the evening updating my portfolio to display my newest project, update the look and add additional details to it and update my contact info page.",
+        "success": "Time flies! Spent a few hours working with React to update my portfolio.",
+        "challenge": "Working with grids and image sizing",
+        "thoughts": "Just keep it interesting!",
+        "link": "https://github.com/ncmarsh/portfolio/commit/4c55c96d189b21b70bd680e878117e65d7bbd3bf",
+        "linkTitle": "One of today's commits"
     }
 ]
