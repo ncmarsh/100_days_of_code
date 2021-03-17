@@ -48,5 +48,25 @@
         "thoughts": "Just keep it interesting!",
         "link": "https://github.com/ncmarsh/portfolio/commit/4c55c96d189b21b70bd680e878117e65d7bbd3bf",
         "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 6,
+        "date": "Sun Mar 14, 2021",
+        "progress": "Time got away from me this weekend as I was able to finally visit family after a few months of not seeing them. With the busyness of the weekend, it was hard to carve out time on the computer. However I was able to spend an hour working through and completing Fundamentals II on the Grasshopper app.",
+        "success": "Learned about new ways to handle arrays -> .pop() for example.",
+        "challenge": "Making time",
+        "thoughts": "Returning back to the fundamentals has reminded me how much I learned over the last 6 months and how much going back over everything will help solidify my knowledge. I will continue the next 2 weeks working on my team project for Demo Day, then I will return to the fundamentals.",
+        "link": "",
+        "linkTitle": ""
+    },
+    {
+        "id": 7,
+        "date": "Tues Mar 16, 2021",
+        "progress": "Today I returned to my final project from bootcamp to continue debugging the modal issue. Finally found that the react state hook for that modal wasn't being set back to false, which was causing the closing issue (or lack thereof).",
+        "success": "Found the bug!",
+        "challenge": "Found the bug!",
+        "thoughts": "Just focus on the problem at hand.",
+        "link": "https://github.com/UWB-Bandits/the-smoking-gun/commit/a9818aa33a40fd849c4aed12f29d3eed6c63a99b",
+        "linkTitle": "One of today's commits"
     }
 ]
