@@ -68,5 +68,15 @@
         "thoughts": "Just focus on the problem at hand.",
         "link": "https://github.com/UWB-Bandits/the-smoking-gun/commit/a9818aa33a40fd849c4aed12f29d3eed6c63a99b",
         "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 8,
+        "date": "Wed Mar 17, 2021",
+        "progress": "This evening I was researching and trying to understand how to implement form validation in React for my final project from bootcamp.",
+        "success": "Fine-tuning those research skills.",
+        "challenge": "Some days that information just won't absorb.",
+        "thoughts": "It's ok to take a break away from the code to clear your mind.",
+        "link": "",
+        "linkTitle": ""
     }
 ]
