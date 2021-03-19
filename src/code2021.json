@@ -78,5 +78,25 @@
         "thoughts": "It's ok to take a break away from the code to clear your mind.",
         "link": "",
         "linkTitle": ""
+    },
+    {
+        "id": 9,
+        "date": "Thurs Mar 18, 2021",
+        "progress": "Just as I hoped, I was able to find my way out of the validation tunnel and things started to click. I was able to add form validations to the create/edit forms for my final project and found some more modals that needed updating for consistent styling.",
+        "success": "Form validations for a better user experience.",
+        "challenge": "Found a few bugs along they way and was able to clean things up as I moved through the app.",
+        "thoughts": "Just make sure you have a plan, even if it's just for the next day. Getting a plan in place takes care of one of the harder steps: getting started.",
+        "link": "https://github.com/UWB-Bandits/the-smoking-gun/pull/99/commits/ffd79e6dfb48b8c590b88e6c987e3c2ff79ec49f",
+        "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 10,
+        "date": "Fri Mar 19, 2021",
+        "progress": "",
+        "success": "",
+        "challenge": "",
+        "thoughts": "",
+        "link": "",
+        "linkTitle": ""
     }
 ]
