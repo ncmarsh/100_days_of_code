@@ -92,6 +92,16 @@
     {
         "id": 10,
         "date": "Fri Mar 19, 2021",
+        "progress": "Finished going over my project and adding in form validations for a better user experience.",
+        "success": "All forms validated! Now time to move to the next thing. Also found duplicate code that wasn't needed in the project.",
+        "challenge": "Where to display the alert on various components.",
+        "thoughts": "There's probably a better/more efficient way of doing this.",
+        "link": "https://github.com/UWB-Bandits/the-smoking-gun/pull/100/commits/7fa6ef55e9c261e7b25e0884fd35782a6e944b6d",
+        "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 11,
+        "date": "Sat Mar 20, 2021",
         "progress": "",
         "success": "",
         "challenge": "",

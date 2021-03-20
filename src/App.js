@@ -4,7 +4,7 @@ import NavBar from "./components/NavBar";
 import ProgressCard from "./components/ProgressCard";
 import ProgressTable from "./components/ProgressTable";
 import ToggleViewBtn from "./components/ToggleViewBtn";
-import codeProgress from "./code2019.json";
+import codeProgress from "./code2021.json";
 import { Container } from "react-bootstrap";
 import './App.css';
 
