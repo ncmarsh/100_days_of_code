@@ -102,6 +102,16 @@
     {
         "id": 11,
         "date": "Sat Mar 20, 2021",
+        "progress": "Continued working on my project by adding a Forgot Password link to the sign in page using the Firebase Authentication we have set up on the project. I have it functioning properly, just need to add some error messages for the user to see if their email address does not exist and a success message when the email is sent.",
+        "success": "Adding in more functionality to our project and getting to know Firebase better.",
+        "challenge": "Figuring out errors.",
+        "thoughts": "Even the little things count.",
+        "link": "https://github.com/UWB-Bandits/the-smoking-gun/commit/2239592daeb972a45709d38c39db4c8c3288b37d",
+        "linkTitle": "One of today's commits"
+    },
+    {
+        "id": 12,
+        "date": "Sun Mar 21, 2021",
         "progress": "",
         "success": "",
         "challenge": "",
