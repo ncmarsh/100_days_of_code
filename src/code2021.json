@@ -111,7 +111,17 @@
     },
     {
         "id": 12,
-        "date": "Sun Mar 21, 2021",
+        "date": "Mon Mar 22, 2021",
+        "progress": "Finished adding in form validations on my project and merged my code with my teammate's code they've been working on. Then I practiced using a new (for me) tool called JavaScript Fiddle by using it to make different React components.",
+        "success": "Worked through some kinks of using a new coding tool.",
+        "challenge": "Remembering to switch the language to React on JavaScript Fiddle ;)",
+        "thoughts": "VS Code is amazing.",
+        "link": "https://jsfiddle.net/ncmarsh/wy342rpk/",
+        "linkTitle": "My JS Fiddle Simple React Form"
+    },
+    {
+        "id": 13,
+        "date": "Tues Mar 23, 2021",
         "progress": "",
         "success": "",
         "challenge": "",
